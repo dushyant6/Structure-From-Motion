@@ -1,0 +1,6 @@
+The codebase is used to implement different modules of SfM pipeline such as:
+Finding fundamental and estimation matrix
+Estimation and disambiguation of camera pose, registration of next camera images
+Estimation of other camera poses using Perspective n-Points (PnP)
+3D reconstruction using linear and non linear triangulation
+Refinment of poses and 3D mapping using bundle adjustment with help of visibility matrix
